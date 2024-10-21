@@ -1,0 +1,30 @@
+==========Loop=======
+
+1. for loop  common use/
+2. foreach loop  commmon use/
+3. while loop
+4. do while loop
+
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+
+10 ta hello akta function korbo for loop a mahdome...
+
+
+=>for loop
+
+for (initialization; range/condition; increment/decrement)
+        1              10 ++ / + 2
+        10              5 -- / - 2
+
+for (initialization; range/condition; increment/decrement){
+    //Statement.....
+}
